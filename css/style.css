@@ -242,8 +242,9 @@
 }
 
 .page-header {
-    background: url(../img/header-page.jpg) top center no-repeat;
+    background: url(../img/banner.png) top center no-repeat;
     background-size: cover;
+    background-position: center;
     text-shadow: 0 0 30px rgba(0, 0, 0, .1);
 }
 
